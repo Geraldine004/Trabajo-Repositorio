@@ -1,0 +1,13 @@
+body{font-family:monospace; 
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 55px;;
+    background-color:rgb(36, 25, 59);
+    ;
+}
+p{font-size: 16px; color: white;}
+h1{font-size: 35px; color:rgba(230, 230, 250, 0.877);}
+h2{font-size: 25px; color: thistle;}
+.img1{ height: 500px}
+
+
